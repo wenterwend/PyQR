@@ -18,6 +18,12 @@ PyQR is a simple Python-based QR code generator that allows you to create QR cod
 To install the required libraries, run:
 ```sh
 pip install qrcode[pil]
+```sh
 
 ## Example Usage
+```sh
 python main.py "http://domain.com" "C:\\output.png"
+```sh
+
+### License 
+MIT License
